@@ -1,0 +1,5 @@
+elasticsearch==8.12.1
+llama_index==0.9.46
+keybert==0.8.3
+llmsherpa==0.1.4
+pydantic~=2.6.3
